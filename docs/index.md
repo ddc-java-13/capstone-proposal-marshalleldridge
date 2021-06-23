@@ -7,16 +7,18 @@ This chess program allows players to create and play games from anywhere using t
 
 * Beginners looking for a way to learn the game of chess.
 
-    > As a middle schooler who just joined my local chess team, I am looking for a way to quicky improve my chess skills, this app lets me analize my games to find places I can improve.
+    > As a middle schooler who just joined my local chess team, I am looking for a way to quicky improve my chess skills, this app lets me record my games for later analysis in order to find places I can improve.
 * Isolated players looking for a way to play chess.
 
-    > Because I travel for work it is hard to find people to play chess with, this app allows me to find a game anywhere on my own schedule.
+    > Because I travel for work it is hard to find people to play chess with. I need a way to play chess with others while I am on the road. This app allows me to find a game anywhere on my own schedule.
 
 ## Client component
 
 ### Functionality
 
-Users will be able to choose human opponents (same device) or play verses the cpu, Save games to be continued later, and analyse their games from position to position.
+* Side by side play available on the same device.
+* Move lists for a given game can be exported.
+* Ability to go through moves of a previously played game given using a game id
 
 ### Persistent data
 
@@ -32,15 +34,19 @@ TBD
 
 ### Functionality
 
-Play online games verses other players.
+* Users ID data and game records are can be searched.
+* Users will be able to find opponents for online play.
+* Games can be saved to be continued later.
 
 ### Persistent data
 
-Saved games played via online modes.
+* User information.
+* Saved games played via online modes.
 
 ### External services
 
-One or more open source chess engines such as Stockfish or AlphaZero    
+TBD
+
 ## Stretch goals/possible enhancements 
 
 TBD
