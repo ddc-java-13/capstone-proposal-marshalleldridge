@@ -7,11 +7,11 @@ This chess program allows players to create and play games from anywhere using t
 
 * Beginners looking for a way to learn the game of chess.
 
-    > As a middle schooler who just joined my local chess team, I am looking for a way to quicky improve my chess skills, this app lets me record my games for later analysis in order to find places I can improve.
+    > As a middle school student who just joined my local chess team, I am looking for a way to quickly improve my chess skills. The Chess Trainer! app records every game I play. This allows me to watch those games later to identify mistakes and areas I could have made better moves.
+
 * Isolated players looking for a way to play chess.
 
-    > Because I travel for work it is hard to find people to play chess with. I need a way to play chess with others while I am on the road. This app allows me to find a game anywhere on my own schedule.
-
+    > Because I travel for work, it is hard to find people to play chess with. I need a way to play chess with others while I am on the road. Chess Trainer allows me to play chess online with other people all over the world. Since I can connect with anyone for a game online  I can play chess with my friends on my schedule even when I am out of town.
 ## Client component
 
 ### Functionality
