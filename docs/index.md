@@ -12,6 +12,7 @@ This chess program allows players to create and play games from anywhere using t
 * Isolated players looking for a way to play chess.
 
     > Because I travel for work, it is hard to find people to play chess with. I need a way to play chess with others while I am on the road. Chess Trainer allows me to play chess online with other people all over the world. Since I can connect with anyone for a game online  I can play chess with my friends on my schedule even when I am out of town.
+
 ## Client component
 
 ### Functionality
